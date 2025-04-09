@@ -1,7 +1,6 @@
 package com.gevernova.methods.leveltwo;
 import java.util.Arrays;
 import java.util.Scanner;
-import java.util.ArrayList;
 
 public class FindFactors {
 
